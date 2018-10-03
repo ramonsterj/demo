@@ -1,0 +1,4 @@
+Bundle-Name: myportlet-web
+Bundle-SymbolicName: com.workshop
+Bundle-Version: 1.0.0
+Export-Package: com.workshop.constants
